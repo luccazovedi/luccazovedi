@@ -1,6 +1,6 @@
 ## Olá, meu nome é Lucca Zovedi!
 
-<h3 align="left"> <img src="https://cdn-icons.flaticon.com/png/512/3682/premium/3682321.png?token=exp=1658518473~hmac=7b6277fe6411c75e7f89ed64bff84316" width="15"/> Social Media:</h3>
+<h3 align="left"> <img src="https://cdn-icons-png.flaticon.com/512/4519/4519678.png" width="15"/> Social Media:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/luccazovedi" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="luccazovedi" height="30" width="40" /></a>
   <a href="https://instagram.com/luccazovedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luccazovedi" height="30" width="40" /></a>
