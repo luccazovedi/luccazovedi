@@ -2,8 +2,8 @@
 ### 🚀 Desenvolvedor Web Junior!<br>💻 Analista e Desenvolvedor de Sistemas em processo!<br><br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luccazovedi){:target="_blank"}
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luccazovedi){:target="_blank"} 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luccazovedi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luccazovedi)
 
 ## 💻 Skills::
 ### Linguagens:<br> 
