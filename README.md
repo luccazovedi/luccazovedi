@@ -4,7 +4,7 @@
 
 ### Full Stack Developer
 
-Building scalable web applications, REST APIs and systems.
+Building scalable web applications and web systems.
 
 </div>
 
@@ -59,7 +59,6 @@ Experience with ERP development, system integration and software architecture, e
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
@@ -71,14 +70,14 @@ Experience with ERP development, system integration and software architecture, e
 
 ## Highlights
 
-- 🔗 REST API Development
-- 🏢 ERP Systems
-- 🔄 System Integration
-- 🔐 Authentication & Authorization
-- 🧱 Clean Architecture
-- 📐 SOLID Principles
-- ✅ Unit Testing
-- 🗄️ Database Modeling
+- 🔗 **REST APIs** — Designing scalable, well-documented endpoints
+- 🏢 **ERP Systems** — Business management modules and process automation
+- 🔄 **System Integration** — Service-to-service communication, webhooks and third-party APIs
+- 🔐 **Auth & Security** — Authentication, authorization and role-based access control
+- 🧱 **Clean Architecture** — Decoupled, testable and maintainable code
+- 📐 **SOLID Principles** — Object-oriented design best practices
+- ✅ **Automated Testing** — Unit and integration tests for reliable delivery
+- 🗄️ **Data Modeling** — Efficient relational and NoSQL schema design
 
 <br>
 
