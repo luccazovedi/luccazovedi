@@ -4,10 +4,7 @@
 
 ### Full Stack Developer
 
-Building scalable web applications, REST APIs and business systems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luccazovedi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccazovedi@gmail.com)
+Building scalable web applications, REST APIs and systems.
 
 </div>
 
@@ -82,17 +79,6 @@ Experience with ERP development, system integration and software architecture, e
 - 📐 SOLID Principles
 - ✅ Unit Testing
 - 🗄️ Database Modeling
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luccazovedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccazovedi&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <br>
 
