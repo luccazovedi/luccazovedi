@@ -1,87 +1,29 @@
-<div align="center">
-
 # Lucca Zovedi
 
-### Full Stack Developer
+Full Stack Developer 
 
-Building scalable web applications and web systems.
-
-</div>
-
-<br>
+Building scalable web applications, REST APIs and systems.
+Based in São Paulo, Brazil. Open to opportunities and challenges.
 
 ## About
 
-Full Stack Developer focused on building scalable web applications, REST APIs and business systems.
+I work across the full software lifecycle — from requirements and architecture to implementation, testing and maintenance. Experienced in ERP development, e-commerce platforms and system integration, with an emphasis on clean code, maintainability and performance.
 
-Experience with ERP development, system integration and software architecture, emphasizing clean code, maintainability and performance.
+## Stack
 
-📍 Based in São Paulo, Brazil 🇧🇷 — open to remote opportunities.
+**Backend** &nbsp; Laravel · PHP · Node.js · TypeScript
 
-<br>
+**Frontend** &nbsp; React · Next.js · Tailwind CSS
 
-## Tech Stack
+**Data** &nbsp; MySQL · PostgreSQL · Supabase · MongoDB
 
-<table>
-<tr>
-<td valign="top" width="25%">
+**DevOps** &nbsp; Docker · Git · GitHub Actions · n8n
 
-**Backend**
+## Education
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
-
-**DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Highlights
-
-- 🔗 **REST APIs** — Designing scalable, well-documented endpoints
-- 🏢 **ERP Systems** — Business management modules and process automation
-- 🔄 **System Integration** — Service-to-service communication, webhooks and third-party APIs
-- 🔐 **Auth & Security** — Authentication, authorization and role-based access control
-- 🧱 **Clean Architecture** — Decoupled, testable and maintainable code
-- 📐 **SOLID Principles** — Object-oriented design best practices
-- ✅ **Automated Testing** — Unit and integration tests for reliable delivery
-- 🗄️ **Data Modeling** — Efficient relational and NoSQL schema design
-
-<br>
+Systems Analysis and Development · Computer Networks (Technical) — IFSP
+Certifications: AWS Academy · Cisco · Alura
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luccazovedi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccazovedi@gmail.com)
+[LinkedIn](https://linkedin.com/in/luccazovedi) · [Email](mailto:luccazovedi@gmail.com)
