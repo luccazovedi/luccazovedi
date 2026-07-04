@@ -16,4 +16,5 @@ Full Stack Developer specialized in scalable web systems and platforms, from ERP
 ## Education
 
 Degree in Systems Analysis and Development (IFSP)
+
 Certifications: AWS Academy · Cisco · Alura
