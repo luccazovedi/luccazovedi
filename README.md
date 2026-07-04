@@ -1,9 +1,3 @@
-# Lucca Zovedi
-
-Full Stack Developer 
-
-Building scalable web applications, REST APIs and systems.
-Based in São Paulo, Brazil. Open to opportunities and challenges.
 
 ## About
 
